@@ -13,6 +13,6 @@ This course presents the main machine learning techniques for image analysis. Mo
 
   
 ***
-My Results:
+### My Results:
 
 I ranked 9th out of 90 in the challenge, which is an excellent result.
