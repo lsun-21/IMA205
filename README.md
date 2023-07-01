@@ -1,12 +1,18 @@
 # IMA205
-Apprentissage pour l'image et la reconnaissance d'objets
+Machine learning for image and object recognition
 
-Ce cours présente les techniques principales de machine learning pour l'analyse d'images. Plus précisément :
+This course presents the main machine learning techniques for image analysis. More precisely :
 
-- Introduction à l'apprentissage non supervisé ("curse of dimensionality", ACP, ACI, NNMF)
-- Introduction à l'apprentissage supervisé (overfitting, OLS, Ridge, LASSO, LDA, QDA)
-- SVM (Séparateur à vaste marge)
-- Arbres de décision et forêts aléatoires
-- Apprentissage ensembliste 
-- Réseaux de neurones articifiels (ANNs)
-- Réseaux de neurones convolutif (CNNs)
+- Introduction to unsupervised learning ("curse of dimensionality", ACP, ACI, NNMF)
+- Introduction to supervised learning (overfitting, OLS, Ridge, LASSO, LDA, QDA)
+- SVM (Large Margin Separator)
+- Decision trees and random forests
+- Ensemblistic learning 
+- Artificial neural networks (ANNs)
+- Convolutional neural networks (CNNs)
+
+  
+***
+My Results:
+
+I ranked 9th out of 90 in the challenge, which is an excellent result.
